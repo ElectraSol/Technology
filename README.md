@@ -248,7 +248,7 @@
 
     <!-- CEO Section -->
     <section class="ceo-section">
-        <img src="myphoto.jpg" alt="WhatsApp Image 2025-01-31 at 12.44.32_bc63cfae" class="ceo-photo">
+        <img src="myphoto.jpg" alt="myphoto.jpg" class="ceo-photo">
         <div>
             <h2>Sana Ullah</h2>
             <h3>Founder & CEO</h3>
